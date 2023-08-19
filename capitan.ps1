@@ -21,7 +21,7 @@ function Orders-Test {
 }
 Drop-Sails
 
-while(True){
+while(1){
     Orders-Test
     Sleep 5;
 }
